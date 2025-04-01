@@ -1,4 +1,4 @@
-# Incorrect Unpushed Git Commits
+# Incorrect Unpushed Git Commit
 There is wrong commits that are not pushed yet.
 
 ## Root Cause
